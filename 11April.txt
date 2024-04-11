@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>our journey</title>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <link href="https://fonts.googleapis.com/css?family=Dancing+Script|Lobster|Pattaya|Srisakdi&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.1/css/all.css" integrity="sha384-O8whS3fhG2OnA5Kas0Y9l3cfpmYjapjI0E4theH4iuMD+pLhbf6JI0jIMfYcK3yZ" crossorigin="anonymous">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+        <link href="bootstrap.min.css" rel="stylesheet"/>
+        <link href="style.css" rel="stylesheet" />
+        <link href="one.css" rel="stylesheet" />
+        <link href="photopile.css" rel="stylesheet">
+        <link rel="stylesheet" href="animate.css">
+        <script>
+            var _hmt = _hmt || [];
+            (function() {
+                var hm = document.createElement("script");
+                hm.src = "";
+                var s = document.getElementsByTagName("script")[0];
+                s.parentNode.insertBefore(hm, s);
+            })();
+
+
+            
+        </script>
+    </head>
+    
+    <body>
+    <div>
+    <p>
+    
+    soo my princess it's 11 11...and it's a time for making an wish .... okay okay gussa mut karna kii bologi 
+padhne bheji thi or firse tumne yeh likha ....so pahele he sorry...but i love you the most....jada nahi bus wish mang k chala jaunga 
+...soo aaj baatein hui apni thik thak ..🤭haa bus kalesh nahi huva.....aapki iccha adhuri rahe gayi kalesh karne ki😅.... ( please mut karna )
+i love you itaaaaaaaaaaaaaaanaaaaa saaraaaaaaa pata nahi kitna saaraa.....i wish na mam aap mere saath raho hamesha k liye ....or or 
+mujhe aise he bhout kisses dete raho ....mujhe bhout maja aata hai yrr kiss karne me ....ek ek baat batau mam aapko ....i neverd kissed someone on their cheeks... except you 🫰.... believe me  it's true 
+and and mam .... actually i never got kiss on my cheeks also ...you are first girl to jisne mujhe gaal pe kiss bhi voh bhi bhout saare ....mai sochta tha ki gaal pe kiss marne me kaisa maja 
+but aapse kiss milne baad subkuch aacha lagene laga hai ....i hope mujhe in future bhi aise he bhout saare kisses milete rahenge 🤗...as always i love you vineeta ji 💜 be mine bus thoda sa or ...you know mam 
+Tumhe chand likha to khudko tumhare sath taro sa saja diya, tumhe apna kaha to sare zamane se chhupa liya.
+mujhe tumhare alawa koi dikhta hi nahi hai, me wo andha jisne tumhe  jeene ka sahara bna liya.💕🫀🫰❤️💚💜🥰
+
+</p>
+
+</div>
+</body>
+</html>
+    
+    
